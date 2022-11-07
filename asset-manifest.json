@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://nagakiran2068.github.io/csb-mhgbq6/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://nagakiran2068.github.io/csb-mhgbq6/static/js/main.0863e2f9.chunk.js",
+    "main.js.map": "https://nagakiran2068.github.io/csb-mhgbq6/static/js/main.0863e2f9.chunk.js.map",
+    "runtime-main.js": "https://nagakiran2068.github.io/csb-mhgbq6/static/js/runtime-main.b890cf45.js",
+    "runtime-main.js.map": "https://nagakiran2068.github.io/csb-mhgbq6/static/js/runtime-main.b890cf45.js.map",
+    "static/js/2.33f0bf01.chunk.js": "https://nagakiran2068.github.io/csb-mhgbq6/static/js/2.33f0bf01.chunk.js",
+    "static/js/2.33f0bf01.chunk.js.map": "https://nagakiran2068.github.io/csb-mhgbq6/static/js/2.33f0bf01.chunk.js.map",
+    "index.html": "https://nagakiran2068.github.io/csb-mhgbq6/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://nagakiran2068.github.io/csb-mhgbq6/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.33f0bf01.chunk.js.LICENSE.txt": "https://nagakiran2068.github.io/csb-mhgbq6/static/js/2.33f0bf01.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b890cf45.js",
+    "static/js/2.33f0bf01.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.0863e2f9.chunk.js"
+  ]
+}
